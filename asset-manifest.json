@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CodeClauseInternship_Basic-Text-Editor/static/css/main.9e343407.css",
-    "main.js": "/CodeClauseInternship_Basic-Text-Editor/static/js/main.fe80feb7.js",
+    "main.js": "/CodeClauseInternship_Basic-Text-Editor/static/js/main.f5363e32.js",
     "static/js/787.fe551491.chunk.js": "/CodeClauseInternship_Basic-Text-Editor/static/js/787.fe551491.chunk.js",
     "static/media/editor.mp4": "/CodeClauseInternship_Basic-Text-Editor/static/media/editor.28dc89d685154d1bfdf4.mp4",
     "index.html": "/CodeClauseInternship_Basic-Text-Editor/index.html",
     "main.9e343407.css.map": "/CodeClauseInternship_Basic-Text-Editor/static/css/main.9e343407.css.map",
-    "main.fe80feb7.js.map": "/CodeClauseInternship_Basic-Text-Editor/static/js/main.fe80feb7.js.map",
+    "main.f5363e32.js.map": "/CodeClauseInternship_Basic-Text-Editor/static/js/main.f5363e32.js.map",
     "787.fe551491.chunk.js.map": "/CodeClauseInternship_Basic-Text-Editor/static/js/787.fe551491.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e343407.css",
-    "static/js/main.fe80feb7.js"
+    "static/js/main.f5363e32.js"
   ]
 }
