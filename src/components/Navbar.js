@@ -6,7 +6,7 @@ export default function Navbar() {
 
             <nav class="navbar bg-body-tertiary"> 
                 <div class="container-fluid">
-                    <img src="/text-logo.png" alt="React Image" />
+                    <img src="./CodeClauseInternship_Basic-Text-Editor/text-logo.png" alt="React Image" />
                 </div>
             </nav>
             <div className="main">
