@@ -1,3 +1,4 @@
+// Navbar with logo image
 import React from 'react'
 import editor from '../assets/editor.mp4'
 export default function Navbar() {
